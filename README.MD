@@ -51,7 +51,7 @@ Email Validation Regex
 #### Security
 
 - helmet
-- cors
+- cors -cross origin resource sharing
 - xss-clean
 - express-rate-limit
 
